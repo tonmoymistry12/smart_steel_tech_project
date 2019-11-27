@@ -1,0 +1,19 @@
+{
+  "name": "smart_steel_proj",
+  "version": "1.0.0",
+  "description": "\"# smart_steel_tech_project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonmoymistry12/smart_steel_tech_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonmoymistry12/smart_steel_tech_project/issues"
+  },
+  "homepage": "https://github.com/tonmoymistry12/smart_steel_tech_project#readme"
+}
