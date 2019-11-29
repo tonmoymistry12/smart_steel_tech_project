@@ -75,7 +75,7 @@ function d3Legend() {
       //position legend as far right as possible within the total width
       g.attr('transform', 'translate(' + (width - margin.right - maxwidth) + ',' + margin.top + ')');
 
-      height = margin.top + margin.bottom + ypos + 15;
+      height = margin.top + margin.bottom + ypos + 5;
     });
 
     return chart;
